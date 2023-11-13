@@ -1,0 +1,14 @@
+{
+  "name": "automationframework",
+  "version": "1.0.0",
+  "description": "Framework for cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Valverde",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.6.1"
+  }
+}
